@@ -1,0 +1,61 @@
+﻿  blueye_factors.cpp
+d:\blueye_factors_api\blueye_factors_api\romrecordset.h(4): warning C4068: 未知的杂注
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+d:\blueye_factors_api\blueye_factors_api\romrecordset.h(82): warning C4068: 未知的杂注
+d:\blueye_factors_api\blueye_factors_api\qclient.h(304): warning C4005: “REQ_TYPE_LOGIN”: 宏重定义
+  d:\blueye_factors_api\blueye_factors_api\qclient.h(202): note: 参见“REQ_TYPE_LOGIN”的前一个定义
+d:\blueye_factors_api\blueye_factors_api\blueye_factors_common.hpp(494): warning C4244: “=”: 从“LONGLONG”转换到“double”，可能丢失数据
+d:\blueye_factors_api\blueye_factors_api\blueye_factors_common.hpp(495): warning C4244: “=”: 从“LONGLONG”转换到“double”，可能丢失数据
+d:\blueye_factors_api\blueye_factors_api\blueye_factors_common.hpp(512): warning C4244: “=”: 从“LONGLONG”转换到“double”，可能丢失数据
+d:\blueye_factors_api\blueye_factors_api\blueye_factors_common.hpp(513): warning C4244: “=”: 从“LONGLONG”转换到“double”，可能丢失数据
+d:\blueye_factors_api\blueye_factors_api\blueye_factors_common.hpp(568): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\blueye_factors_api\blueye_factors_api\blueye_factors_common.hpp(715): warning C4018: “>”: 有符号/无符号不匹配
+d:\blueye_factors_api\blueye_factors_api\blueye_factors_common.hpp(747): warning C4018: “<”: 有符号/无符号不匹配
+d:\blueye_factors_api\blueye_factors_api\blueye_factors_common.hpp(906): warning C4018: “<”: 有符号/无符号不匹配
+d:\blueye_factors_api\blueye_factors_api\blueye_factors_common.hpp(918): warning C4018: “<”: 有符号/无符号不匹配
+d:\blueye_factors_api\blueye_factors_api\blueye_factors_common.hpp(971): warning C4244: “=”: 从“time_t”转换到“__time32_t”，可能丢失数据
+d:\blueye_factors_api\blueye_factors_api\blueye_factors_common.hpp(986): warning C4018: “<”: 有符号/无符号不匹配
+d:\blueye_factors_api\blueye_factors_api\blueye_factors_common.hpp(988): warning C4018: “<”: 有符号/无符号不匹配
+d:\blueye_factors_api\blueye_factors_api\blueye_factors_common.hpp(1004): warning C4018: “>=”: 有符号/无符号不匹配
+d:\blueye_factors_api\blueye_factors_api\blueye_factors_common.hpp(1014): warning C4018: “<”: 有符号/无符号不匹配
+d:\blueye_factors_api\blueye_factors_api\blueye_factors.cpp(51): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+d:\blueye_factors_api\blueye_factors_api\blueye_factors.cpp(56): warning C4018: “<”: 有符号/无符号不匹配
+d:\blueye_factors_api\blueye_factors_api\blueye_factors.cpp(71): warning C4018: “<”: 有符号/无符号不匹配
+d:\blueye_factors_api\blueye_factors_api\blueye_factors.cpp(82): warning C4018: “<”: 有符号/无符号不匹配
+d:\blueye_factors_api\blueye_factors_api\blueye_factors.cpp(173): warning C4018: “<”: 有符号/无符号不匹配
+d:\blueye_factors_api\blueye_factors_api\blueye_factors.cpp(323): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+d:\blueye_factors_api\blueye_factors_api\blueye_factors.cpp(405): warning C4018: “<”: 有符号/无符号不匹配
+d:\blueye_factors_api\blueye_factors_api\blueye_factors.cpp(413): warning C4018: “<”: 有符号/无符号不匹配
+d:\blueye_factors_api\blueye_factors_api\blueye_factors.cpp(415): warning C4018: “<”: 有符号/无符号不匹配
+d:\blueye_factors_api\blueye_factors_api\blueye_factors.cpp(422): warning C4018: “<”: 有符号/无符号不匹配
+d:\blueye_factors_api\blueye_factors_api\blueye_factors.cpp(462): warning C4018: “>=”: 有符号/无符号不匹配
+d:\blueye_factors_api\blueye_factors_api\blueye_factors.cpp(472): warning C4018: “<”: 有符号/无符号不匹配
+d:\blueye_factors_api\blueye_factors_api\blueye_factors.cpp(497): warning C4018: “<=”: 有符号/无符号不匹配
+d:\blueye_factors_api\blueye_factors_api\blueye_factors.cpp(555): warning C4018: “<=”: 有符号/无符号不匹配
+d:\blueye_factors_api\blueye_factors_api\blueye_factors.cpp(609): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+d:\blueye_factors_api\blueye_factors_api\blueye_factors.cpp(634): warning C4018: “<”: 有符号/无符号不匹配
+d:\blueye_factors_api\blueye_factors_api\blueye_factors.cpp(704): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+d:\blueye_factors_api\blueye_factors_api\blueye_factors.cpp(746): warning C4018: “<=”: 有符号/无符号不匹配
+  blueye_factors_api.cpp
+d:\blueye_factors_api\blueye_factors_api\romrecordset.h(4): warning C4068: 未知的杂注
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+d:\blueye_factors_api\blueye_factors_api\romrecordset.h(82): warning C4068: 未知的杂注
+d:\blueye_factors_api\blueye_factors_api\qclient.h(304): warning C4005: “REQ_TYPE_LOGIN”: 宏重定义
+  d:\blueye_factors_api\blueye_factors_api\qclient.h(202): note: 参见“REQ_TYPE_LOGIN”的前一个定义
+d:\blueye_factors_api\blueye_factors_api\blueye_factors_common.hpp(494): warning C4244: “=”: 从“LONGLONG”转换到“double”，可能丢失数据
+d:\blueye_factors_api\blueye_factors_api\blueye_factors_common.hpp(495): warning C4244: “=”: 从“LONGLONG”转换到“double”，可能丢失数据
+d:\blueye_factors_api\blueye_factors_api\blueye_factors_common.hpp(512): warning C4244: “=”: 从“LONGLONG”转换到“double”，可能丢失数据
+d:\blueye_factors_api\blueye_factors_api\blueye_factors_common.hpp(513): warning C4244: “=”: 从“LONGLONG”转换到“double”，可能丢失数据
+d:\blueye_factors_api\blueye_factors_api\blueye_factors_common.hpp(568): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\blueye_factors_api\blueye_factors_api\blueye_factors_common.hpp(715): warning C4018: “>”: 有符号/无符号不匹配
+d:\blueye_factors_api\blueye_factors_api\blueye_factors_common.hpp(747): warning C4018: “<”: 有符号/无符号不匹配
+d:\blueye_factors_api\blueye_factors_api\blueye_factors_common.hpp(906): warning C4018: “<”: 有符号/无符号不匹配
+d:\blueye_factors_api\blueye_factors_api\blueye_factors_common.hpp(918): warning C4018: “<”: 有符号/无符号不匹配
+d:\blueye_factors_api\blueye_factors_api\blueye_factors_common.hpp(971): warning C4244: “=”: 从“time_t”转换到“__time32_t”，可能丢失数据
+d:\blueye_factors_api\blueye_factors_api\blueye_factors_common.hpp(986): warning C4018: “<”: 有符号/无符号不匹配
+d:\blueye_factors_api\blueye_factors_api\blueye_factors_common.hpp(988): warning C4018: “<”: 有符号/无符号不匹配
+d:\blueye_factors_api\blueye_factors_api\blueye_factors_common.hpp(1004): warning C4018: “>=”: 有符号/无符号不匹配
+d:\blueye_factors_api\blueye_factors_api\blueye_factors_common.hpp(1014): warning C4018: “<”: 有符号/无符号不匹配
+d:\blueye_factors_api\blueye_factors_api\blueye_factors_api.cpp(20): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  blueye_factors_api.vcxproj -> D:\blueye_factors_api\Debug\blueye_factors_api.exe
